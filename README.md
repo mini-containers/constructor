@@ -1,4 +1,4 @@
-# mini/construtor
+# mini/constructor
 
 Provides the basic compilers and building blocks required to compile
 software to be used on top of
