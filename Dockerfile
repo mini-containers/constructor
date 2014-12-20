@@ -5,6 +5,7 @@ RUN \
   apk-install \
     autoconf \
     automake \
+    bash \
     build-base \
     clang \
     git \

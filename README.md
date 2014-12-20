@@ -16,6 +16,20 @@ FROM mini/constructor
 CMD ["/bin/sh"]
 ```
 
+## Tools and inner details
+
+Some of the tools and compilers included:
+
+- auto* (conf and make)
+- Bash
+- clang
+- GCC
+- Git
+- libtool
+
+Please note that while `bash` has been installed (as dependency of other
+packages), the default shell is `sh`.
+
 ## Sponsor
 
 Work on this was made possible thanks to [AREA 17](http://www.area17.com).
