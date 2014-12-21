@@ -9,6 +9,8 @@ RUN \
     build-base \
     clang \
     git \
-    libtool
+    libtool \
+    tar \
+    xz
 
 CMD ["/bin/sh"]
